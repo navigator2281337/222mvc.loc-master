@@ -1,0 +1,19 @@
+body{
+   background-color:deepskyblue;
+}
+h1{
+    font-family: "Rage Italic";
+}
+button{
+    color: #660066;
+    font-size: large;
+}
+input{
+    background-color: #BEE9EA;
+}
+li{
+    color: antiquewhite;
+}
+ul{
+    background-color: deeppink;
+}
